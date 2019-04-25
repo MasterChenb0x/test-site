@@ -4,7 +4,7 @@ os: linux
 # May have multiple source and destination specifications
 files:
   - source: /
-    destination: /home/centos
+    destination: /var/www/html
 # Permissions
 # permissions:
 #  - object:
